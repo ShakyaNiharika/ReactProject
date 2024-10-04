@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main {
+    padding: 20px;
+    display: flex;
+    gap: 10;
+    justify-content: space-between;
+    align-items: center;
+     background-color: rgb(169, 127, 51);
+     ; 
+     padding-right: 10px;
+    padding-left: 10px;
+    height: 60px;
+    color: white;
+    
+}
+.right-corner{
+    display: flex;
+    gap: 10px;
+    margin-left: 140px;
+}
+
+.rightCorner{
+    display: flex;
+    gap: 30px;
+    margin-left: 140px;
+    padding-top: 8px;
+    font-size: 18px;
+    width: 50px;
+}

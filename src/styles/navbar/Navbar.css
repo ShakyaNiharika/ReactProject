@@ -1,0 +1,32 @@
+.Nav_menu ul {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.Nav_menu ul li{
+    
+    display: block;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 40px;
+    font-size: 18px;
+    padding-top: 15px;
+    
+}
+.graphic{
+    width: 2rem;
+    height: 2rem;
+    margin-left: 4rem;
+    margin-right: -2rem;
+    margin-top: 1rem;
+    color: rgba(128, 128, 128, 0.686);
+   
+}
+.Shop{
+    background-color: rgb(169, 127, 51);
+    ; 
+    padding-left: -400px;
+    color: white;
+    padding: 20px;
+}
